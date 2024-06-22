@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/recusandae-recusandae-nam-et",
-  "version": "2.5.49",
+  "version": "2.5.50",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -670,5 +670,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/recusandae-recusandae-nam-et/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
